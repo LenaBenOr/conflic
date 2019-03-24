@@ -14,7 +14,8 @@ def multiply(x, y):
    return x * y
 
 def divide(x, y):
-   return x / y
+   #dummy implementation
+   return 1920
 
 
 
